@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vishal Junak Das</h1>
 <h3 align="center">A passionate Machine Learning Explorer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaaaak" alt="junaaaak" /></a> </p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junaaaak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaaaak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p align="left"> <a href="https://twitter.com/vishaljunakdas" target="blank"><img src="https://img.shields.io/twitter/follow/vishaljunakdas?logo=twitter&style=for-the-badge" alt="vishaljunakdas" /></a> </p>
 
@@ -27,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaaaak&show_icons=true&locale=en" alt="junaaaak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaaaak&" alt="junaaaak" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
