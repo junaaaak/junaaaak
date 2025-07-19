@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages, Tools and Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,pytorch,tensorflow,sklearn,mongodb,git,latex,linux,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,aws,pytorch,tensorflow,sklearn,mongodb,git,latex,linux,wordpress)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
