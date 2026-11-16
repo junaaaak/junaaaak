@@ -40,18 +40,28 @@ I'm a **Data Analyst & ML explorer based in Bangalore, India**. I can teach your
 
 **Languages & ML**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,pytorch,tensorflow,sklearn&perline=9" alt="languages and ml" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,html,css,pytorch,tensorflow,sklearn&perline=10" alt="languages and ml" />
 
-**Data, Cloud & Tools**
+**Data, Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,git,github,linux,latex,vscode,wordpress&perline=9" alt="tools" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,githubactions&perline=10" alt="data and devops" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,latex,vscode,wordpress&perline=10" alt="tools" />
 
 <br/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A388?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
